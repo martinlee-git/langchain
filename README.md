@@ -1,3 +1,20 @@
+# 읽어보기
+
+- 원문 저장소: `langchain-ai/langchain`
+- 미러 저장소: `martinlee-git/langchain`
+- 원문 문서: https://github.com/langchain-ai/langchain/blob/master/README.md
+- 미러 경로: `README.md`
+
+## 한글 요약
+
+<div align="center" <a href="https://docs.langchain.com/oss/python/langchain/overview" <picture <source media="(색 구성표 선호: 어두운)" srcset=".github/images/logo dark.svg" <source media="(색 구성표 선호: 밝은)" srcset=".github/images/logo light.svg" <img alt="LangChain 로고" src=".github/images/logo dark.svg" width="50%" </picture </a </div <div align="center" <h3 에이전트 엔지니어링 플랫폼.</h3 </div <div align="center" <a href="https://opensource.org/licenses/MIT" target=" 공백" <img src="https://img.shields.io/pypi/l/langchain" alt="PyPI 라이센스" </a <a href="https://pypistats.org/packages/langchain" target=" 공백" <img src="https://img.shields.io/pepy/dt/langchain" alt="PyPI 다운로드" </a <a href="https://pypi.org/project/langchain/#history" target=" 공백" <img src="https://img.shields.io/pypi/v/langchain?label=%20" alt="버전" </a <a href="https://x.com/langchain oss" target=" 공백" <img src="https://img.shields.io/twitter/url/https/twitter.com/langchain o
+
+## 핵심 발췌
+
+ss.svg?style=social&label=Follow%20%40LangChain" alt="Twitter / X" </a </div <br LangChain은 에이전트 및 LLM 기반 애플리케이션 구축을 위한 프레임워크입니다. 이는 상호 운용 가능한 구성 요소와 타사 통합을 함께 연결하여 AI 애플리케이션 개발을 단순화하는 동시에 기본 기술이 발전함에 따라 미래 보장 결정을 내리는 데 도움이 됩니다. [!팁] 이제 막 시작하시나요? Deep Agents를 확인해 보세요. 계획, 하위 에이전트, 파일 시스템 사용 등과 같은 일반적인 사용 패턴에 대한 기능이 내장된 에이전트용 LangChain 빠른 시작 고급 사용자 정의 또는 에이전트 오케스트레이션을 찾고 있다면 제어 가능한 에이전트 워크플로 구축을 위한 프레임워크인 LangGraph를 확인하세요. 동등한 JS/TS 라이브러리는 LangChain.js를 확인하세요.
+
+## 원문 내용
+
 <div align="center">
   <a href="https://docs.langchain.com/oss/python/langchain/overview">
     <picture>
