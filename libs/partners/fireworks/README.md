@@ -1,3 +1,20 @@
+# 읽어보기
+
+- 원문 저장소: `langchain-ai/langchain`
+- 미러 저장소: `martinlee-git/langchain`
+- 원문 문서: https://github.com/langchain-ai/langchain/blob/master/libs/partners/fireworks/README.md
+- 미러 경로: `libs/partners/fireworks/README.md`
+
+## 한글 요약
+
+langchain 불꽃놀이 JS/TS 버전을 찾고 계십니까? LangChain.js를 확인해 보세요. 빠른 설치 🤔 이게 뭔가요? Fireworks.ai와 LangChain을 연결하기 위한 파트너 패키지입니다. Fireworks는 LangChain 사용 사례에 대한 우수한 지원을 제공하기 위해 노력하고 있으므로 문제가 발생하면 알려 주시기 바랍니다. Discord 채널에서 저희에게 연락하실 수 있습니다. 📖 문서 전체 문서를 보려면 API 참조를 확인하세요. 이러한 클래스 사용에 대한 개념적 가이드, 튜토리얼 및 예제는 LangChain Docs를 참조하세요. 📕 릴리스 및 버전 관리 릴리스 및 버전 관리 정책을 참조하세요. 💁 기여 빠르게 발전하는 분야의 오픈 소스 프로젝트로서 우리는 새로운 기능, 개선된 인프라, 더 나은 문서 등의 형태로 기여하는 데 매우 열려 있습니다. 기여 방법에 대한 자세한 내용은 기여 가이드를 참조하세요.
+
+## 핵심 발췌
+
+langchain 불꽃놀이 [![PyPI 라이선스](https://img.shields.io/pypi/l/langchain fi
+
+## 원문 내용
+
 # langchain-fireworks
 
 [![PyPI - Version](https://img.shields.io/pypi/v/langchain-fireworks?label=%20)](https://pypi.org/project/langchain-fireworks/#history)
