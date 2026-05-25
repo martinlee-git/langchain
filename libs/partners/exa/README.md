@@ -1,3 +1,20 @@
+# 읽어보기
+
+- 원문 저장소: `langchain-ai/langchain`
+- 미러 저장소: `martinlee-git/langchain`
+- 원문 문서: https://github.com/langchain-ai/langchain/blob/master/libs/partners/exa/README.md
+- 미러 경로: `libs/partners/exa/README.md`
+
+## 한글 요약
+
+langchain exa JS/TS 버전을 찾고 계십니까? LangChain.js를 확인해 보세요. 빠른 설치 🤔 이게 뭔가요? 이 패키지에는 AI용으로 구축된 웹 검색 API인 Exa와의 LangChain 통합이 포함되어 있습니다. 이를 통해 웹을 검색하고 모든 페이지의 콘텐츠를 깔끔하게 사용할 수 있습니다. 📖 문서 자세한 내용은 문서를 확인하세요.
+
+## 핵심 발췌
+
+랭체인 엑사 [ ](https://openso
+
+## 원문 내용
+
 # langchain-exa
 
 [![PyPI - Version](https://img.shields.io/pypi/v/langchain-exa?label=%20)](https://pypi.org/project/langchain-exa/#history)
