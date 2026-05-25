@@ -1,3 +1,20 @@
+# 읽어보기
+
+- 원문 저장소: `langchain-ai/langchain`
+- 미러 저장소: `martinlee-git/langchain`
+- 원문 문서: https://github.com/langchain-ai/langchain/blob/master/libs/text-splitters/README.md
+- 미러 경로: `libs/text-splitters/README.md`
+
+## 한글 요약
+
+🦜✂️ LangChain 텍스트 분할기 JS/TS 버전을 찾고 계십니까? LangChain.js를 확인해 보세요. 빠른 설치 🤔 이게 뭔가요? LangChain Text Splitters에는 다양한 텍스트 문서를 덩어리로 분할하는 유틸리티가 포함되어 있습니다. 📖 문서 전체 문서를 보려면 API 참조를 확인하세요. 📕 릴리스 및 버전 관리 릴리스 및 버전 관리 정책을 참조하세요. 새 테스트를 게시할 때 CI가 손상되는 것을 방지하려면 버전을 특정 버전에 고정하는 것이 좋습니다. 최신 테스트를 받을 수 있도록 주기적으로 최신 버전으로 업그레이드하는 것이 좋습니다. 버전을 고정하지 않으면 항상 최신 테스트를 받을 수 있지만, 통합이 통과하지 못한 테스트를 도입하면 CI가 손상될 수도 있습니다. 💁 기여 빠르게 발전하는 분야의 오픈 소스 프로젝트로서 우리는 새로운 기능, 개선된 인프라, 더 나은 문서 등의 형태로 기여하는 데 매우 열려 있습니다. 기여 방법에 대한 자세한 내용은 기여하기를 참조하세요.
+
+## 핵심 발췌
+
+가이드.
+
+## 원문 내용
+
 # 🦜✂️ LangChain Text Splitters
 
 [![PyPI - Version](https://img.shields.io/pypi/v/langchain-text-splitters?label=%20)](https://pypi.org/project/langchain-text-splitters/#history)
