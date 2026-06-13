@@ -11,7 +11,7 @@
 
 ## 핵심 발췌
 
-가이드.
+가이드. 리소스 LangChain Academy — LangChain 팀에서 만든 LangChain 라이브러리 및 제품에 대한 포괄적인 무료 코스, 행동 강령 — 커뮤니티 지침 및 표준
 
 ## 원문 내용
 
@@ -27,7 +27,7 @@ Looking for the JS/TS version? Check out [LangChain.js](https://github.com/langc
 ## Quick Install
 
 ```bash
-pip install langchain-text-splitters
+uv add langchain-text-splitters
 ```
 
 ## 🤔 What is this?
@@ -51,3 +51,8 @@ Not pinning your version will ensure you always have the latest tests, but it ma
 As an open-source project in a rapidly developing field, we are extremely open to contributions, whether it be in the form of a new feature, improved infrastructure, or better documentation.
 
 For detailed information on how to contribute, see the [Contributing Guide](https://docs.langchain.com/oss/python/contributing/overview).
+
+## Resources
+
+- [LangChain Academy](https://academy.langchain.com/) — comprehensive, free courses on LangChain libraries and products, made by the LangChain team
+- [Code of Conduct](https://github.com/langchain-ai/langchain/?tab=coc-ov-file) — community guidelines and standards
