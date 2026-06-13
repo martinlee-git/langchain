@@ -11,7 +11,7 @@
 
 ## 핵심 발췌
 
-내구성 있는 실행, 스트리밍, 인간 참여 루프, 지속성 등을 제공합니다. (기본적인 LangChain 에이전트 사용을 위해 LangGraph를 알 필요는 없습니다.) 📖 문서 전체 문서를 보려면 API 참조를 확인하세요. LangChain 사용에 대한 개념적 가이드, 튜토리얼 및 예제는 LangChain Docs를 참조하세요. Chat LangChain을 사용하여 문서와 채팅할 수도 있습니다. 📕 릴리스 및 버전 관리 릴리스 및 버전 관리 정책을 참조하세요. 💁 기여 빠르게 발전하는 분야의 오픈 소스 프로젝트로서 우리는 새로운 기능, 개선된 인프라, 더 나은 문서 등의 형태로 기여하는 데 매우 열려 있습니다. 기여 방법에 대한 자세한 내용은 기여 가이드를 참조하세요.
+내구성 있는 실행, 스트리밍, 인간 참여 루프, 지속성 등을 제공합니다. (기본적인 LangChain 에이전트 사용을 위해 LangGraph를 알 필요는 없습니다.) 📖 문서 전체 문서를 보려면 API 참조를 확인하세요. LangChain 사용에 대한 개념적 가이드, 튜토리얼 및 예제는 LangChain Docs를 참조하세요. Chat LangChain을 사용하여 문서와 채팅할 수도 있습니다. 📕 릴리스 및 버전 관리 릴리스 및 버전 관리 정책을 참조하세요. 💁 기여 빠르게 발전하는 분야의 오픈 소스 프로젝트로서 우리는 새로운 기능, 개선된 인프라, 더 나은 문서 등의 형태로 기여하는 데 매우 열려 있습니다. 기여 방법에 대한 자세한 내용은 기여 가이드를 참조하세요. 리소스 LangChain Academy — LangChain 라이브러리 및 제품에 대한 포괄적인 무료 강좌
 
 ## 원문 내용
 
@@ -30,7 +30,7 @@ To help you ship LangChain apps to production faster, check out [LangSmith](http
 ## Quick Install
 
 ```bash
-pip install langchain
+uv add langchain
 ```
 
 ## 🤔 What is this?
@@ -54,3 +54,8 @@ See our [Releases](https://docs.langchain.com/oss/python/release-policy) and [Ve
 As an open-source project in a rapidly developing field, we are extremely open to contributions, whether it be in the form of a new feature, improved infrastructure, or better documentation.
 
 For detailed information on how to contribute, see the [Contributing Guide](https://docs.langchain.com/oss/python/contributing/overview).
+
+## Resources
+
+- [LangChain Academy](https://academy.langchain.com/) — comprehensive, free courses on LangChain libraries and products, made by the LangChain team
+- [Code of Conduct](https://github.com/langchain-ai/langchain/?tab=coc-ov-file) — community guidelines and standards
