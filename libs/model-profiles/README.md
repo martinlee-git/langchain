@@ -11,7 +11,7 @@
 
 ## 핵심 발췌
 
-. LangChain 사용에 대한 개념적 가이드, 튜토리얼 및 예제는 LangChain Docs를 참조하세요. Chat LangChain을 사용하여 문서와 채팅할 수도 있습니다. 특정 공급자에 대한 사용 업데이트 모델 프로필 데이터: 이는 models.dev에서 최신 모델 데이터를 다운로드하고 이를 프로필 Augmentations.toml에 정의된 모든 기능 보강과 병합한 후 프로필.py 파일을 생성합니다.
+. LangChain 사용에 대한 개념적 가이드, 튜토리얼 및 예제는 LangChain Docs를 참조하세요. Chat LangChain을 사용하여 문서와 채팅할 수도 있습니다. 특정 공급자에 대한 사용 업데이트 모델 프로필 데이터: 이는 models.dev에서 최신 모델 데이터를 다운로드하고 이를 프로필 Augmentations.toml에 정의된 모든 기능 보강과 병합한 후 프로필.py 파일을 생성합니다. 리소스 LangChain Academy — LangChain 팀에서 만든 LangChain 라이브러리 및 제품에 대한 포괄적인 무료 코스, 행동 강령 — 커뮤니티 지침 및 표준
 
 ## 원문 내용
 
@@ -30,7 +30,7 @@ CLI tool for updating model profile data in LangChain integration packages.
 ## Quick Install
 
 ```bash
-pip install langchain-model-profiles
+uv add langchain-model-profiles
 ```
 
 ## 🤔 What is this?
@@ -58,3 +58,8 @@ langchain-profiles refresh --provider anthropic --data-dir ./langchain_anthropic
 ```
 
 This downloads the latest model data from models.dev, merges it with any augmentations defined in `profile_augmentations.toml`, and generates a `profiles.py` file.
+
+## Resources
+
+- [LangChain Academy](https://academy.langchain.com/) — comprehensive, free courses on LangChain libraries and products, made by the LangChain team
+- [Code of Conduct](https://github.com/langchain-ai/langchain/?tab=coc-ov-file) — community guidelines and standards
