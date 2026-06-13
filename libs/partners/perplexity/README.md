@@ -7,7 +7,7 @@
 
 ## 한글 요약
 
-langchain perplexity Looking for the JS/TS version? Check out LangChain.js. 빠른 설치 🤔 이게 뭔가요? This package contains the LangChain integration with Perplexity. 📖 Documentation For full documentation, see the API reference. For conceptual guides, tutorials, and examples on using these classes, see the LangChain Docs. 📕 Releases & Versioning See our Releases and Versioning policies. 💁 기여 빠르게 발전하는 분야의 오픈 소스 프로젝트로서 우리는 새로운 기능, 개선된 인프라, 더 나은 문서 등의 형태로 기여하는 데 매우 열려 있습니다. For detailed information on how to contribute, see the Contributing Guide. 리소스 LangChain Academy — LangChain 팀에서 만든 LangChain 라이브러리 및 제품에 대한 포괄적인 무료 코스, 행동 강령 — 커뮤니티 지침 및 표준
+langchain perplexity JS/TS 버전을 찾고 계십니까? LangChain.js를 확인해 보세요. 빠른 설치 🤔 이게 뭔가요? 이 패키지에는 Perplexity와 LangChain 통합이 포함되어 있습니다. 📖 문서 전체 문서를 보려면 API 참조를 확인하세요. 이러한 클래스 사용에 대한 개념적 가이드, 튜토리얼 및 예제는 LangChain Docs를 참조하세요. 📕 릴리스 및 버전 관리 릴리스 및 버전 관리 정책을 참조하세요. 💁 기여 빠르게 발전하는 분야의 오픈 소스 프로젝트로서 우리는 새로운 기능, 개선된 인프라, 더 나은 문서 등의 형태로 기여하는 데 매우 열려 있습니다. 기여 방법에 대한 자세한 내용은 기여 가이드를 참조하세요. 리소스 LangChain Academy — LangChain 팀에서 만든 LangChain 라이브러리 및 제품에 대한 포괄적인 무료 코스, 행동 강령 — 커뮤니티 지침 및 표준
 
 ## 핵심 발췌
 
