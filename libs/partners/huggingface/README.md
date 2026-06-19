@@ -7,7 +7,7 @@
 
 ## 한글 요약
 
-langchainhuggingface JS/TS 버전을 찾고 계십니까? LangChain.js를 확인해 보세요. 빠른 설치 참고: 기본 설치에는 문장 변환기 또는 변환기가 포함되지 않습니다. 로컬 추론을 위해 HuggingFaceEmbeddings 또는 HuggingFacePipeline을 사용하려는 경우 문장 변환기 =5.2.0 및 변환기 =5.0.0을 포함하는 [전체] 추가 항목을 설치하십시오: Migating from langchain Community? langchain 커뮤니티에서는 문장 변환기 =2.2.0을 허용했지만 langchainhuggingface[full]에는 =5.2.0이 필요합니다. 프로젝트에 이전 버전이 고정되어 있으면 업그레이드하세요. 🤔 이게 뭐죠? 이 패키지에는 Hugging Face 관련 클래스에 대한 LangChain 통합이 포함되어 있습니다. 📖 문서 전체 문서를 보려면 API 참조를 확인하세요. 이러한 클래스 사용에 대한 개념적 가이드, 튜토리얼 및 예제는 LangChain Docs를 참조하세요. 📕 릴리스 및 버전 관리 릴리스 및 버전 관리 정책을 참조하세요. 💁 기여 빠르게 발전하는 분야의 오픈 소스 프로젝트로서 우리는 기여에 대해 매우 개방적입니다.
+langchainhuggingface JS/TS 버전을 찾고 계십니까? LangChain.js를 확인해 보세요. 빠른 설치 참고: 기본 설치에는 문장 변환기 또는 변환기가 포함되지 않습니다. 로컬 추론을 위해 HuggingFaceEmbeddings 또는 HuggingFacePipeline을 사용하려는 경우 문장 변환기 =5.2.0 및 변환기 =5.0.0을 포함하는 [전체] 추가 항목을 설치하십시오: langchain 커뮤니티에서 마이그레이션하시겠습니까? langchain 커뮤니티에서는 문장 변환기 =2.2.0을 허용했지만 langchainhuggingface[full]에는 =5.2.0이 필요합니다. 프로젝트에 이전 버전이 고정되어 있으면 업그레이드하세요. 🤔 이게 뭐죠? 이 패키지에는 Hugging Face 관련 클래스에 대한 LangChain 통합이 포함되어 있습니다. 📖 문서 전체 문서를 보려면 API 참조를 확인하세요. 이러한 클래스 사용에 대한 개념적 가이드, 튜토리얼 및 예제는 LangChain Docs를 참조하세요. 📕 릴리스 및 버전 관리 릴리스 및 버전 관리 정책을 참조하세요. 💁 기여 빠르게 발전하는 분야의 오픈 소스 프로젝트로서 우리는 기여에 대해 매우 개방적입니다.
 
 ## 핵심 발췌
 
